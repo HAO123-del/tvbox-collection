@@ -1,12 +1,12 @@
 {
-  "spider": "./lib/XBPQ.jar",
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/HAO123-del/tvbox-collection/main/lib/XBPQ.jar",
   "sites": [
     {
       "key": "秀儿影视",
       "name": "秀儿影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/HAO123-del/tvbox-collection/main/lib/XBPQ.jar",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -96,7 +96,7 @@
       "name": "光影迷",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/HAO123-del/tvbox-collection/main/lib/XBPQ.jar",
       "ext": {
         "副标题": "<div class=\"tag text-overflow\">&&</div>",
         "分类url": "https://www.guangyingmi.com/"
@@ -107,8 +107,8 @@
       "name": "牛牛",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "ext": "./lib/牛牛.json"
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/HAO123-del/tvbox-collection/main/lib/XBPQ.jar",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/HAO123-del/tvbox-collection/main/lib/%E7%89%9B%E7%89%9B.json"
     }
   ]
 }
